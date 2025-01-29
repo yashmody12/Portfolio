@@ -66,6 +66,7 @@ main {
 
 main section {
     margin-bottom: 40px;
+    padding: 20px;
 }
 
 article {
@@ -82,6 +83,7 @@ article:hover {
 }
 
 button, a.button {
+    margin-top: 20px;
     background-color: #004aad;
     color: #fff;
     border: none;
